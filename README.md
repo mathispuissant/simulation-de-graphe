@@ -3,7 +3,7 @@
 
 ## Synthèse
 
-	Notre projet initial consistait à reproduire un réseau social, qui rapprocherait les personnes ayant des points communs (par exemple : villes, écoles, sports, etc.). Nous avons donc étudié les réseaux sociaux et en passant du temps dessus, nous avons constaté qu’ils ne parlaient que d’une chose en cette période de confinement : le Covid-19. C’est ainsi qu’une idée nous vînt en tête, et si nous reproduisions un algorithme de propagation d’un virus dans une population donnée ? 
+Notre projet initial consistait à reproduire un réseau social, qui rapprocherait les personnes ayant des points communs (par exemple : villes, écoles, sports, etc.). Nous avons donc étudié les réseaux sociaux et en passant du temps dessus, nous avons constaté qu’ils ne parlaient que d’une chose en cette période de confinement : le Covid-19. C’est ainsi qu’une idée nous vînt en tête, et si nous reproduisions un algorithme de propagation d’un virus dans une population donnée ? 
 
 ### I)	Le rapprochement social.
 
